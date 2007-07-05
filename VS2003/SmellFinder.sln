@@ -1,0 +1,61 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmellFinder", "SmellFinder\SmellFinder.csproj", "{906E45C0-7297-4502-98A6-44573B834E88}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SmellFinderSetup", "SmellFinderSetup\SmellFinderSetup.vdproj", "{FDDF999C-14CB-4D6A-AF92-FA66FF75E39D}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmellVisualizations", "SmellVisualizations\SmellVisualizations.csproj", "{35028778-7593-4459-89FA-296DEC399C63}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmellDetectors", "SmellDetectors\SmellDetectors.csproj", "{8C373C9C-F8BA-428F-A7E5-42D9EB36C228}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeModel", "CodeModel\CodeModel.csproj", "{25102816-A88C-40CA-BFFF-7844ABFA1008}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCS", "LCS_src\LCS.csproj", "{9697C23B-3723-4282-A987-3CE48B0360C0}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{906E45C0-7297-4502-98A6-44573B834E88}.Debug.ActiveCfg = Debug|.NET
+		{906E45C0-7297-4502-98A6-44573B834E88}.Debug.Build.0 = Debug|.NET
+		{906E45C0-7297-4502-98A6-44573B834E88}.Release.ActiveCfg = Release|.NET
+		{906E45C0-7297-4502-98A6-44573B834E88}.Release.Build.0 = Release|.NET
+		{FDDF999C-14CB-4D6A-AF92-FA66FF75E39D}.Debug.ActiveCfg = Debug
+		{FDDF999C-14CB-4D6A-AF92-FA66FF75E39D}.Release.ActiveCfg = Release
+		{35028778-7593-4459-89FA-296DEC399C63}.Debug.ActiveCfg = Debug|.NET
+		{35028778-7593-4459-89FA-296DEC399C63}.Debug.Build.0 = Debug|.NET
+		{35028778-7593-4459-89FA-296DEC399C63}.Release.ActiveCfg = Release|.NET
+		{35028778-7593-4459-89FA-296DEC399C63}.Release.Build.0 = Release|.NET
+		{8C373C9C-F8BA-428F-A7E5-42D9EB36C228}.Debug.ActiveCfg = Debug|.NET
+		{8C373C9C-F8BA-428F-A7E5-42D9EB36C228}.Debug.Build.0 = Debug|.NET
+		{8C373C9C-F8BA-428F-A7E5-42D9EB36C228}.Release.ActiveCfg = Release|.NET
+		{8C373C9C-F8BA-428F-A7E5-42D9EB36C228}.Release.Build.0 = Release|.NET
+		{25102816-A88C-40CA-BFFF-7844ABFA1008}.Debug.ActiveCfg = Debug|.NET
+		{25102816-A88C-40CA-BFFF-7844ABFA1008}.Debug.Build.0 = Debug|.NET
+		{25102816-A88C-40CA-BFFF-7844ABFA1008}.Release.ActiveCfg = Release|.NET
+		{25102816-A88C-40CA-BFFF-7844ABFA1008}.Release.Build.0 = Release|.NET
+		{9697C23B-3723-4282-A987-3CE48B0360C0}.Debug.ActiveCfg = Debug|.NET
+		{9697C23B-3723-4282-A987-3CE48B0360C0}.Debug.Build.0 = Debug|.NET
+		{9697C23B-3723-4282-A987-3CE48B0360C0}.Release.ActiveCfg = Release|.NET
+		{9697C23B-3723-4282-A987-3CE48B0360C0}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
