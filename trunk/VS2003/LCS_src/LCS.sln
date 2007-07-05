@@ -1,0 +1,26 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCS", "LCS.csproj", "{9697C23B-3723-4282-A987-3CE48B0360C0}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(.Test) = postSolution
+		ActiveConfiguration = BuiltIn\Combined\CompleteAnalysis.tcfg
+		.TestFiles = .TEST\Products\symbols.xml;.TEST\Products\violations.xml;.TEST\Products\coverage.xml
+		GRSAttributes = <?xml version="1.0" encoding="utf-8"?><properties document_version="1.0" />
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{9697C23B-3723-4282-A987-3CE48B0360C0}.Debug.ActiveCfg = Debug|.NET
+		{9697C23B-3723-4282-A987-3CE48B0360C0}.Debug.Build.0 = Debug|.NET
+		{9697C23B-3723-4282-A987-3CE48B0360C0}.Release.ActiveCfg = Release|.NET
+		{9697C23B-3723-4282-A987-3CE48B0360C0}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
