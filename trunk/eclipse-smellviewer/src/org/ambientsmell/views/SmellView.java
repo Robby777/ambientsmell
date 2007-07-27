@@ -1,9 +1,10 @@
 package org.ambientsmell.views;
 
+import org.apache.batik.swing.JSVGCanvas;
 import org.eclipse.jface.viewers.IStructuredContentProvider;
 import org.eclipse.jface.viewers.Viewer;
+import org.eclipse.swt.awt.SWT_AWT;
 import org.eclipse.swt.widgets.Composite;
-import org.eclipse.swt.widgets.Label;
 import org.eclipse.ui.part.ViewPart;
 
 
@@ -26,7 +27,7 @@ import org.eclipse.ui.part.ViewPart;
  */
 
 public class SmellView extends ViewPart {
-	private Label label;
+	private	java.awt.Panel panel;
 
 	/*
 	 * The content provider class is responsible for
@@ -52,21 +53,26 @@ public class SmellView extends ViewPart {
 	 * The constructor.
 	 */
 	public SmellView() {
+		
 	}
 
 	/**
 	 * This is a callback that will allow us
 	 * to create the viewer and initialize it.
 	 */
-	public void createPartControl(Composite parent) {
-        label = new Label(parent, 0);
-        label.setText("Hello Ambient World");
+	public void createPartControl(Composite composite) {
+		JSVGCanvas canvas = new JSVGCanvas();
+		java.awt.Frame frame = SWT_AWT.new_Frame(composite);
+		panel = new java.awt.Panel();
+		frame.add(panel);
+		
+		panel.add(canvas);
 	}
 
 	/**
 	 * Passing the focus request to the viewer's control.
 	 */
 	public void setFocus() {
-		label.setFocus();
+		panel.requestFocus();
 	}
 }
