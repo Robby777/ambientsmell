@@ -9,6 +9,9 @@ http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis
 ==C#==
  * http://www.codeplex.com/csparser, I tried this out -- really fast and robust.
 
+==Python==
+ * http://www.logilab.org/topic/name/Python
+
 =Rule Tools=
 
  * http://pmd.sourceforge.net/howtowritearule.html
