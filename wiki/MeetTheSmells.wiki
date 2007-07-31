@@ -1,23 +1,23 @@
 ==The Bloaters==
 || Smell                || Detected || Visualization ||
-||Long Method           || Yes || ||
+||Long Method           || Yes || http://www.ambientsoftvis.com/images/smells/BuildLineChart.bmp ||
 ||Large Class           ||     || ||
-||Primitive Obsession   ||     || ||
-||Long Parameter List   || Yes || ||
-||DataClumps            ||     || ||
+||Primitive Obsession   ||     || http://www.ambientsoftvis.com/images/smells/primobsex.png ||
+||Long Parameter List   || Yes || http://www.ambientsoftvis.com/images/smells/longparamex.png ||
+||DataClumps            ||     || http://www.ambientsoftvis.com/images/smells/data_clumps.png ||
 
 ==The Object-Orientation Abusers==
 || Smell                || Detected || Visualization ||
 ||Switch Statements     ||     || ||
 ||Temporary Field       || Yes || ||   
-||Refused Bequest       ||     || ||
+||Refused Bequest       ||     || http://www.ambientsoftvis.com/images/smells/RefusedBequest.bmp ||
 ||Alternative Classes with Different Interfaces ||     || ||
 
 ==The Change Preventers==
 || Smell                || Detected || Visualization ||
 ||Divergent Change                 ||     || ||
 ||Shotgun Surgery                  ||     || ||
-||Parallel Inheritance Hierarchies ||     || ||
+||Parallel Inheritance Hierarchies ||     || http://www.ambientsoftvis.com/images/smells/smellfinder_PIH.png ||
 
 ==The Dispensables==
 || Smell                || Detected || Visualization ||
@@ -31,5 +31,5 @@
 || Smell                || Detected || Visualization ||
 ||Feature Envy           ||     || ||
 ||Inappropriate Intimacy ||     || ||
-||Message Chains         || Yes || ||
+||Message Chains         || Yes || http://www.ambientsoftvis.com/images/smells/messageChain.png ||
 ||Middle Man             ||     || ||
