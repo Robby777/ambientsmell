@@ -28,6 +28,7 @@
 ||Speculative Generality  ||     || ||
 
 ==The Couplers==
+|| Smell                || Detected || Visualization ||
 ||Feature Envy           ||     || ||
 ||Inappropriate Intimacy ||     || ||
 ||Message Chains         || Yes || ||
