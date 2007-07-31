@@ -1,33 +1,34 @@
 ==The Bloaters==
-||Long Method           || ||
+|| Smell                || Detected || Visualization ||
+||Long Method           || Yes ||
 ||Large Class           || ||
 ||Primitive Obsession   || ||
-||Long Parameter List   || ||
+||Long Parameter List   || Yes ||
 ||DataClumps            || ||
-||Primitive Obsession   || ||
 
 ==The Object-Orientation Abusers==
-||Switch Statements||
-||Temporary Field||
-||Refused Bequest||
-||Alternative Classes with Different Interfaces||
+|| Smell                || Detected || Visualization ||
+||Switch Statements     ||     || ||
+||Temporary Field       || Yes || ||   
+||Refused Bequest       ||     || ||
+||Alternative Classes with Different Interfaces ||     || ||
 
 ==The Change Preventers==
-||Divergent Change||
-||Shotgun Surgery||
-||Parallel Inheritance Hierarchies||
-||The Divergent Change||
-||Parallel Inheritance Hierarchies||
+|| Smell                || Detected || Visualization ||
+||Divergent Change                 ||     || ||
+||Shotgun Surgery                  ||     || ||
+||Parallel Inheritance Hierarchies ||     || ||
 
 ==The Dispensables==
-||Lazy class              || ||
-||Data class              || ||
-||Duplicate Code          || ||
-||Dead Code               || ||
-||Speculative Generality  || ||
+|| Smell                || Detected || Visualization ||
+||Lazy class              ||     || ||
+||Data class              ||     || ||
+||Duplicate Code          ||     || ||
+||Dead Code               ||     || ||
+||Speculative Generality  ||     || ||
 
 ==The Couplers==
-||Feature Envy           || ||
-||Inappropriate Intimacy || ||
-||Message Chains         || ||
-||Middle Man             || ||
+||Feature Envy           ||     || ||
+||Inappropriate Intimacy ||     || ||
+||Message Chains         || Yes || ||
+||Middle Man             ||     || ||
