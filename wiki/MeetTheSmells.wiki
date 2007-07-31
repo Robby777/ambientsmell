@@ -1,10 +1,10 @@
 ==The Bloaters==
 || Smell                || Detected || Visualization ||
-||Long Method           || Yes ||
-||Large Class           || ||
-||Primitive Obsession   || ||
-||Long Parameter List   || Yes ||
-||DataClumps            || ||
+||Long Method           || Yes || ||
+||Large Class           ||     || ||
+||Primitive Obsession   ||     || ||
+||Long Parameter List   || Yes || ||
+||DataClumps            ||     || ||
 
 ==The Object-Orientation Abusers==
 || Smell                || Detected || Visualization ||
