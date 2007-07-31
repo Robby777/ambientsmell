@@ -6,6 +6,9 @@ http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis
 
  * https://javacc.dev.java.net/
 
+==C#==
+ * http://www.codeplex.com/csparser, I tried this out -- really fast and robust.
+
 =Rule Tools=
 
  * http://pmd.sourceforge.net/howtowritearule.html
