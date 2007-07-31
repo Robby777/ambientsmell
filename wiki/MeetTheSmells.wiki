@@ -1,33 +1,33 @@
 ==The Bloaters==
-Long Method
-Large Class
-Primitive Obsession
-Long Parameter List
-DataClumps
-Primitive Obsession
+||Long Method           || ||
+||Large Class           || ||
+||Primitive Obsession   || ||
+||Long Parameter List   || ||
+||DataClumps            || ||
+||Primitive Obsession   || ||
 
 ==The Object-Orientation Abusers==
-Switch Statements
-Temporary Field
-Refused Bequest
-Alternative Classes with Different Interfaces
+||Switch Statements||
+||Temporary Field||
+||Refused Bequest||
+||Alternative Classes with Different Interfaces||
 
 ==The Change Preventers==
-Divergent Change
-Shotgun Surgery
-Parallel Inheritance Hierarchies
-The Divergent Change
-Parallel Inheritance Hierarchies
+||Divergent Change||
+||Shotgun Surgery||
+||Parallel Inheritance Hierarchies||
+||The Divergent Change||
+||Parallel Inheritance Hierarchies||
 
 ==The Dispensables==
-Lazy class
-Data class
-Duplicate Code
-Dead Code,
-Speculative Generality
+||Lazy class              || ||
+||Data class              || ||
+||Duplicate Code          || ||
+||Dead Code               || ||
+||Speculative Generality  || ||
 
 ==The Couplers==
-Feature Envy
-Inappropriate Intimacy
-Message Chains
-Middle Man
+||Feature Envy           || ||
+||Inappropriate Intimacy || ||
+||Message Chains         || ||
+||Middle Man             || ||
