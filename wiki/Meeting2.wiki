@@ -1,4 +1,3 @@
-{{{
 12:41 PM Oge: Hey, I tried using the Batik SVGCanvas in Eclipse but (as noted in the Issue tracker) their graphical libraries are not compatible.
   I'm not sure what avenues we have left for Eclipse
 
@@ -97,5 +96,3 @@
  me: ok cool
 	46 minutes
 2:21 PM me: http://code.google.com/p/ambientsmell/wiki/MeetTheSmells
-
-}}}
