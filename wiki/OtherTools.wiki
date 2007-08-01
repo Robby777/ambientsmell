@@ -7,7 +7,6 @@ Incremental Parser for several languages:
 http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis
 
 ==Java==
-
  * https://javacc.dev.java.net/
 
 ==C#==
@@ -20,8 +19,9 @@ http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis
 ==Python==
  * http://www.logilab.org/topic/name/Python
 
-=Rule Tools=
 
+
+=Rule Tools=
  * http://pmd.sourceforge.net/howtowritearule.html
  * http://xradar.sourceforge.net/
  * http://jbrugge.com/glean/index.html
