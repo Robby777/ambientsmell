@@ -13,6 +13,10 @@ http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis
 ==C#==
  * http://www.codeplex.com/csparser, I tried this out -- really fast and robust.
 
+==C/C++==
+ * http://www.cs.berkeley.edu/~smcpeak/elkhound/sources/elsa/
+ * http://www.nobugs.org/developer/parsingcpp/
+
 ==Python==
  * http://www.logilab.org/topic/name/Python
 
