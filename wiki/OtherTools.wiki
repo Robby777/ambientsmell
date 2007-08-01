@@ -8,9 +8,11 @@ http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis
 
 ==Java==
  * https://javacc.dev.java.net/
+ * http://www.sable.mcgill.ca/soot/ (grimp) -- bytecode analysis.
 
 ==C#==
  * http://www.codeplex.com/csparser, I tried this out -- really fast and robust.
+ * http://www.mono-project.com/Cecil -- bytecode analysis.
 
 ==C/C++==
  * http://www.cs.berkeley.edu/~smcpeak/elkhound/sources/elsa/
@@ -18,8 +20,6 @@ http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis
 
 ==Python==
  * http://www.logilab.org/topic/name/Python
-
-
 
 =Rule Tools=
  * http://pmd.sourceforge.net/howtowritearule.html
