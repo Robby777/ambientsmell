@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Smell Viewer Plug-in
+Bundle-SymbolicName: org.ambientsmell;singleton:=true
+Bundle-Version: 1.0.0
+Bundle-Activator: svg_vewer.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ Batik_1.7
+Eclipse-LazyStart: true
+Bundle-RequiredExecutionEnvironment: J2SE-1.4
+Bundle-ClassPath: .
