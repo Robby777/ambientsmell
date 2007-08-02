@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CSharp.Properties.Resources.resources
+obj\Debug\CSharp.csproj.GenerateResource.Cache
+bin\Debug\CSharp.exe
+bin\Debug\CSharp.pdb
+bin\Debug\Cecil.FlowAnalysis.dll
+bin\Debug\Mono.Cecil.dll
+obj\Debug\CSharp.exe
+obj\Debug\CSharp.pdb
