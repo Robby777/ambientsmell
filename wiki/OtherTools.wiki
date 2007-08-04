@@ -33,6 +33,10 @@ http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis
  * http://xradar.sourceforge.net/
  * http://jbrugge.com/glean/index.html
  * http://qalab.sourceforge.net/
+ * http://findbugs.sourceforge.net/
  
 == .NET ==
  * http://www.ndepend.com/
+ * http://www.gotdotnet.com/Team/FxCop/
+ * http://www.mono-project.com/Gendarme
+ * http://www.mono-project.com/Monoxide
